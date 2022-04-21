@@ -20,7 +20,7 @@
 
 [**5 Measuring the Performance of Model**](./)
 
-> Submitted solution to a Kaggle Competition within 2hrs, got the public leaderboard rank of **1540** [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard?search=Rudresh+Veerkhare)
+> Submitted solution to a Kaggle Competition within 2hrs, got the public leaderboard rank of **1429** [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard?search=Rudresh+Veerkhare)
 
 [**6 Time Series Forecasting: Data, Analysis, and Practice**](<./Time_Series_Analysis_(Exp_6).ipynb>)
 
@@ -29,3 +29,7 @@
 [**7 Text Analysis**](./Text_Analysis.ipynb)
 
 > Used Email Spam dataset to perform text analysis. Steps involved are preparing corpus, removing punctuations and stopwords, use word Stemmer, create Document Term Matrix and finally using CART and Random Forest for classification.
+
+[**8 Support Vector Analysis**](./Text_Analysis.ipynb)
+
+> Studied Support Vector Machines, analyzed the margins made by SVM and effect of hyperparameters.
