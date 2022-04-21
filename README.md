@@ -30,6 +30,6 @@
 
 > Used Email Spam dataset to perform text analysis. Steps involved are preparing corpus, removing punctuations and stopwords, use word Stemmer, create Document Term Matrix and finally using CART and Random Forest for classification.
 
-[**8 Support Vector Analysis**](./Text_Analysis.ipynb)
+[**8 Support Vector Analysis**](./Support_Vector_Machine.ipynb)
 
 > Studied Support Vector Machines, analyzed the margins made by SVM and effect of hyperparameters.
