@@ -18,7 +18,11 @@
 
 > Performed EDA on Adult Census dataset and used Naive Bayes and LDA for classification.
 
-[**5 Measuring the Performance of Model**](./)
+[**4 Hypothesis Testing**](./Hypothesis_Testing.ipynb)
+
+> Performed Hypothesis testing on Male/Female income data, by using Type I error calculation to find out critical value and based on that deciding to reject or accept the hypothesis
+
+[**5 Measuring the Performance of Model**](./Kaggle_House_Prices_Measuring_the_Performance_of_Model.ipynb)
 
 > Submitted solution to a Kaggle Competition within 2hrs, got the public leaderboard rank of **1429** [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard?search=Rudresh+Veerkhare)
 
